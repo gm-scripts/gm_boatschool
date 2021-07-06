@@ -1,0 +1,64 @@
+{
+  "framework": "esx",
+  "lang": "de",
+  "keys": {
+    "openMenu": 38
+  },
+  "maxMistakes": 2,
+  "allFree": false,
+  "price": 800,
+  "school": {
+    "marker": {
+      "x": -815.84,
+      "y": -1346.23,
+      "z": 4.15
+    },
+    "showBlip": true
+  },
+  "menuColors": {
+    "backgroundPrimary": "#4a4a55",
+    "backgroundSecondary": "#35353f",
+    "colorPrimary": "#23bf7c",
+    "colorSecondary": "#299465",
+    "colorCorrect": "#33cc33",
+    "colorFalse": "#cc3333",
+    "textPrimary": "#f7f7f7",
+    "textSecondary": "#dfdfdf"
+  },
+  "marker": {
+    "type": 1,
+    "height": 0,
+    "direction": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.5,
+      "y": 1.5,
+      "z": 1.0
+    },
+    "color": {
+      "r": 35,
+      "g": 191,
+      "b": 124
+    },
+    "alpha": 100,
+    "bob": false,
+    "face": false,
+    "distance": {
+      "show": 100.0,
+      "open": 1.5
+    }
+  },
+  "blip": {
+    "id": 498,
+    "color": 3,
+    "size": 1.0
+  }
+}

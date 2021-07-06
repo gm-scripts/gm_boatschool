@@ -1,0 +1,38 @@
+[
+  {
+    "header": "Frage 1/4",
+    "question": "Auf welcher Seite liegt Backbord?",
+    "a": "Vorne",
+    "b": "Rechts",
+    "c": "Links",
+    "d": "Hinten",
+    "correct": "c"
+  },
+  {
+    "header": "Frage 2/4",
+    "question": "Welche Bedeutung haben rote und grüne Tonnen?",
+    "a": "Sie geben bei Flüssen und Mündungen die Richtung der Strömung an",
+    "b": "Sie trennen den Schwimmer vom Nichtschwimmerbereich",
+    "c": "Sie markieren wo man nicht fahren darf",
+    "d": "Sie funktionieren wie eine Ampel, an grünen darf man vorbeifahren, an roten nicht",
+    "correct": "a"
+  },
+  {
+    "header": "Frage 3/4",
+    "question": "Die regelmäßige Wartung hat viele Vorteile, unteranderem:",
+    "a": "Besserer Auftrieb des Bootes",
+    "b": "Eine sicherere Fahrt",
+    "c": "Eine erhöhte Heckwelle",
+    "d": "Verbesserte Schleppkapazität",
+    "correct": "b"
+  },
+  {
+    "header": "Frage 4/4",
+    "question": "Wo informierst du dich über das Wetter, bevor du losfährst?",
+    "a": "Bei Freunden und Verwandten",
+    "b": "Auf speziell für die Schiffahrt angepassten Webseiten und Apps",
+    "c": "Du schaust in den Himmel",
+    "d": "Garnicht, du vertraust auf dein Glück",
+    "correct": "b"
+  }
+]

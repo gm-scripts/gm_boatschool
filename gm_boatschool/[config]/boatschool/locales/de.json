@@ -1,0 +1,36 @@
+{
+  "blip_title": "Bootsfahrschule",
+  "press_e": "Drücke ~INPUT_CONTEXT~ um einen Bootsführerschein für _price_$ zu machen",
+  "no_exams": "Du hast die Prüfung bereits absolviert",
+  "menu": {
+    "welcome": {
+      "header": "Willkommen",
+      "title": "Willkommen in der Bootsfahrschule!",
+      "paragraphs": [
+        "Nachdem du deine Prüfung bestanden hast, wirst du Wasserfahrzeuge führen dürfen.",
+        "Viel Glück!"
+      ],
+      "nextButtonLabel": "Beginnen"
+    },
+    "test": {
+      "nextButtonLabel": "Weiter"
+    },
+    "failed": {
+      "header": "Gescheitert",
+      "title": "Du hast die Prüfung nicht bestanden!",
+      "paragraphs": [
+        "Viel glück bei nächsten mal!",
+        "Du kannst die Prüfung erneut versuchen."
+      ],
+      "nextButtonLabel": "Schließen"
+    },
+    "passed": {
+      "header": "Bestanden",
+      "title": "Du hast die Prüfung bestanden!",
+      "paragraphs": [
+        "Du bist jetzt dem führen von Wasserfahrzeugen berechtigt."
+      ],
+      "nextButtonLabel": "Schließen"
+    }
+  }
+}
